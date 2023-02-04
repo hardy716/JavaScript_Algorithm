@@ -27,7 +27,7 @@ function solution(numbers) {
     for (let i = 0; i < numbers.length; i++) {          // index 0부터 모든 노드 탐색
         let bigNum = -1;                                // bigNum : 뒷 큰 수 세팅(-1)
         
-        for (let j = i + 1; j < numbers.length; j++) {  // 다음 숫자부터 탐색
+        for (let j = i + 1; j < numbers.length; j++) {
             if (numbers[j] > numbers[i]) {              // 만약, 뒷 큰 수를 찾으면
                 bigNum = numbers[j];                    // bigNum 갱신
                 break;                                  // 탐색을 멈추고
