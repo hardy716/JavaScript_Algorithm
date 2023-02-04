@@ -77,7 +77,7 @@ function solution(numbers) {
 
 
 
-/* improvements(개선점) - 우선순위 큐 */
+/* improvements(개선점) - 우선순위 큐를 사용하여 시간 복잡도 개선(n^2 => nlogn) */
 
 function solution(numbers) {
     const answer = [];
