@@ -58,6 +58,8 @@
 
 - [호텔 대실](https://github.com/hardy716/JavaScript_Algorithm/blob/main/코딩테스트%20연습/LV2/호텔%20대실.js)
 
+- [뒤에 있는 큰 수 찾기](https://github.com/hardy716/JavaScript_Algorithm/blob/main/코딩테스트%20연습/LV2/뒤에%20있는%20큰%20수%20찾기.js)
+
 > LV3
 
 
