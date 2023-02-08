@@ -60,6 +60,11 @@
 
 - [뒤에 있는 큰 수 찾기](https://github.com/hardy716/JavaScript_Algorithm/blob/main/코딩테스트%20연습/LV2/뒤에%20있는%20큰%20수%20찾기.js)
 
+- [숫자 변환하기](https://github.com/hardy716/JavaScript_Algorithm/blob/main/코딩테스트%20연습/LV2/숫자%20변환하기.js)
+
+- [시소 짝꿍](https://github.com/hardy716/JavaScript_Algorithm/blob/main/코딩테스트%20연습/LV2/시소%20짝꿍.js)
+
+
 > LV3
 
 
