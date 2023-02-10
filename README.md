@@ -64,6 +64,8 @@
 
 - [시소 짝꿍](https://github.com/hardy716/JavaScript_Algorithm/blob/main/코딩테스트%20연습/LV2/시소%20짝꿍.js)
 
+- [마법의 엘리베이터](https://github.com/hardy716/JavaScript_Algorithm/blob/main/코딩테스트%20연습/LV2/마법의%20엘리베이터.js)
+
 
 > LV3
 
