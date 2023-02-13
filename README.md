@@ -66,6 +66,8 @@
 
 - [마법의 엘리베이터](https://github.com/hardy716/JavaScript_Algorithm/blob/main/코딩테스트%20연습/LV2/마법의%20엘리베이터.js)
 
+- [유사 칸토어 비트열](https://github.com/hardy716/JavaScript_Algorithm/blob/main/코딩테스트%20연습/LV2/유사%20칸토어%20비트열.js)
+
 
 > LV3
 
