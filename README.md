@@ -68,6 +68,8 @@
 
 - [유사 칸토어 비트열](https://github.com/hardy716/JavaScript_Algorithm/blob/main/코딩테스트%20연습/LV2/유사%20칸토어%20비트열.js)
 
+- [혼자 놀기의 달인](https://github.com/hardy716/JavaScript_Algorithm/blob/main/코딩테스트%20연습/LV2/혼자%20놀기의%20달인.js)
+
 
 > LV3
 
