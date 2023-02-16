@@ -70,6 +70,8 @@
 
 - [혼자 놀기의 달인](https://github.com/hardy716/JavaScript_Algorithm/blob/main/코딩테스트%20연습/LV2/혼자%20놀기의%20달인.js)
 
+- [테이블 해시 함수](https://github.com/hardy716/JavaScript_Algorithm/blob/main/코딩테스트%20연습/LV2/테이블%20해시%20함수.js)
+
 
 > LV3
 
