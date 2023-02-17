@@ -72,6 +72,8 @@
 
 - [테이블 해시 함수](https://github.com/hardy716/JavaScript_Algorithm/blob/main/코딩테스트%20연습/LV2/테이블%20해시%20함수.js)
 
+- [점 찍기](https://github.com/hardy716/JavaScript_Algorithm/blob/main/코딩테스트%20연습/LV2/점%20찍기.js)
+
 
 > LV3
 
