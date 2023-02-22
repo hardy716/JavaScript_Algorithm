@@ -109,3 +109,11 @@
 // time complexity  : O()
 // space complexity : O()
 ```
+
+
+# SQL
+
+
+## 📈 SQL 고득점 Kit
+
+- [Notion 링크 보러가기](https://www.notion.so/hardy716/a930188f8d5b4b528dfc3449afebc404?v=ba5c233647124ecf9d50b7bc27e9e9b3&pvs=4)
