@@ -43,7 +43,8 @@ function solution(numbers, target) {
         }
         
     }
-    return totalDFS(numbers.length, 0);;
+    totalDFS(numbers.length, 0);
+    return answer;
 }
 
 
