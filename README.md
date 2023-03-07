@@ -1,4 +1,4 @@
-# JavaScript_Algorithm
+´# JavaScript_Algorithm
 
 
 ## 📈 프로그래머스 고득점 Kit
@@ -50,8 +50,6 @@
 
 ## 📚 코딩테스트 연습
 
-> LV1
-
 > LV2
 
 - [무인도 여행](https://github.com/hardy716/JavaScript_Algorithm/blob/main/코딩테스트%20연습/LV2/무인도%20여행.js)
@@ -73,42 +71,6 @@
 - [테이블 해시 함수](https://github.com/hardy716/JavaScript_Algorithm/blob/main/코딩테스트%20연습/LV2/테이블%20해시%20함수.js)
 
 - [점 찍기](https://github.com/hardy716/JavaScript_Algorithm/blob/main/코딩테스트%20연습/LV2/점%20찍기.js)
-
-
-> LV3
-
-
-## 📄 기록 형식
-```
-/* 문제 링크 */
-
-/* redefine(재정의) */
-// input : 
-// return :
-// condition :
-// algorithm :
-// logic(psuedo) : 
-
-/* solution(구현) */
-
-/* 결과 */
-// 정확성
-// 효율성
-
-/* check(검증) - Big O Notation */
-// time complexity  : O()
-// space complexity : O()
-
-/* improvements(개선점) */
-
-/* 결과 */
-// 정확성
-// 효율성
-
-/* check(검증) - Big O Notation */
-// time complexity  : O()
-// space complexity : O()
-```
 
 
 # SQL
